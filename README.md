@@ -1,4 +1,14 @@
 # hms2pdf
+python3.8
+
+## 直接运行
+为避免安装模块的麻烦，以便直接运行，在不同环境简单编译了三个版本
+编译环境依次为：
+1.chromos_chroot_ubuntu16.04
+2.termux
+3.win10_x64
+* Releases发布地址：https://github.com/96bearli/hms2pdf/releases
+
 ## 功能
 到某网站搜索或直接下载图片的脚本，并合成pdf以便阅读
 ~~~
